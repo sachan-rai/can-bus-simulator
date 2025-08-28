@@ -1,0 +1,7 @@
+Serial working on COM4 @ 115200"
+
+Board: ESP32-WROOM-32UE
+
+IDE version: Arduino 2.3.6
+
+Baud rate used: 115200
