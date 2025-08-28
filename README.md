@@ -1,10 +1,10 @@
-# Automotive CAN Bus Simulator 🚗📡
+# Automotive CAN Bus Simulator 
 
 This project simulates automotive ECU traffic on a Controller Area Network (CAN Bus) using a microcontroller (STM32/ESP32/Arduino Due) and CAN transceiver modules. It was built as a resume project to demonstrate embedded systems design, real-time firmware, and CAN protocol handling.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Simulate 2–3 virtual ECUs (e.g. Engine, Braking, Cluster)
 - Transmit realistic CAN frames (RPM, Speed, Brake Status)
@@ -14,7 +14,7 @@ This project simulates automotive ECU traffic on a Controller Area Network (CAN 
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - **MCU:** ESP32
 - **Transceiver:** MCP2551
